@@ -5,26 +5,10 @@ date: "9/25/2020"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+This is [where] (https://github.com/Nikita-Lledo/milestone-2.git) my github lives.
 
-## R Markdown
+# Cameron Reaves: Sea Level Rise 
+In this final project Cameron explores the correlation and (potential) causation of the rise in sea levels and the demographics of the United States looking over the next few years. One thing that I think is great about his project is that it tangibly lays out questions that the data project will answer. These questions are relevant to not only data analytics but also to a real world problem - global warming and the impact that it will have in the why we understanding organization. Furthermore, from an interactive point of over, the project opens with an interactive graph showing the basics of the project, the rising sea levels based against time. Interestingly in the Geo-Spatial tab analysis, the coder breaks it down to see net in-migration (immigration) and net out-migration (emigration). However, one thing that I think is a con to this is that the coder excludes in land states. It would be interesting perhaps to see what percentage of people move much further inland in order to avoid havign to move again. Furthermore, the coder draws the conclusion rightly from the results that most migration will be people moving only slightly inwards, and hence provides a policy recommendation to prepare these areas of high immigration to account for these people, however it could be interesting to explore alternatives of allowing across state movement. The coder does make a note to address this very quickly at the end of their analysis only identifying this as a possibility of being an outlier. Finally on the project, the coder finally does a regression analysis of median income to net migration. This I think is particularly useful to begin to understand the social factors at play. A way in which this project could have been improved is to perhaps trace where people were moving from and where they were moving too. In the beginning, the coder makes the general statement that people would move just slightly inward; however, it would be interesting to understand which counties people would move to and for what reasons as well as perhaps understanding the county from which they were coming. Furthermore, the project could also explore the economic impact of the movement of these people. Overall, it was a super interesting project that seemed to involve extensive data wrangling and cleaning. 
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+# Shivani Aggarwal: How Couples Meet 
+This was a super interesting project presented that involved extensive data wrangling and management skills. It produced numerous tables, and graphs to truly make the information and conclusions digestable for those viewing the project. My first critique of the project is that because it is so heavy on producing outputs instead of data cleaning it would have been great to have introduced interactive graphs, maps or animations - nonetheless the information was effectively portrayed. I think it was strategic to break down the project into couple characteristics and then how the couples met. Under couple characteristics the characteristics used are fair in understanding what people might think it is important to be compatible or not compatible in a partner i.e. age or political affiliation. I do think there could have been more data analysis, or written conclusions offered in this section showing statistics (this could have been down through making it interactive). Moving on the the "how couples meet" tab, I think it was effectively laid out. One con however is that the project only included a seperate data analytics for LGBTQ communities in meeting type and the age of meeting. I think if there was going to be a seperation for LGBTQ communities in these sections it should have been through out all sections or no sections. It makes the project feel slightly incomplete or perhaps the coder should have offered an explanation as to why it was only included in these two sections. Another way I could have potentially seen this project expanding to ahndledata inputs and doing analysis would be if they allowed the user to insert their preferences for age education etc and offering a probability of chances of having a partner of those characteristics (not sure how feasible this would be but I do think there is a way for this project to include data input analysis). Finally a small note is that the title of this project is on "How couples meet and stay together" thus is would have been interesting if the "stay together" part had analysis. the project as is only focus on the meeting and characteristics. Perhaps one could interpret the characteristics as how they stay together but this could be much more explicitly analyzed. Overall, this is a really interesting project that is user friendly and light-hearted. 
